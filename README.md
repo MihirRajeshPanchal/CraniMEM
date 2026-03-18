@@ -173,6 +173,21 @@ CraniMem is suitable for applications requiring persistent, coherent memory:
 * Performance depends on gating and utility scoring quality
 * Increased computational cost during consolidation
 
+##  Citation
+
+If you find this work useful in your research or projects, please consider citing:
+
+```bibtex
+@misc{mody2026cranimemcranialinspiredgated,
+      title={CraniMem: Cranial Inspired Gated and Bounded Memory for Agentic Systems}, 
+      author={Pearl Mody and Mihir Panchal and Rishit Kar and Kiran Bhowmick and Ruhina Karani},
+      year={2026},
+      eprint={2603.15642},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2603.15642}, 
+}
+```
 ---
 
 
